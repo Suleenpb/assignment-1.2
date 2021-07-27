@@ -1,3 +1,17 @@
-# assignment-2-flex-and-grid
+# Flex & Grid: Assignment
 
-There is no code base preparation for this assignment. Head over to this [link](https://docs.google.com/presentation/d/1tGk1VXj4LkKX43hJbfuSJjA1mlzv7W7zfYWQiLWyaqQ/edit#slide=id.ge49e0dda62_0_0).
+## Brief
+
+- Refer to this [site](https://nicepage.com/website-templates/preview/machinery-parks-for-industrial-48832?device=desktop).
+- Make <ins>an attempt</ins> to reproduce the remaining page left off from previous assignment.
+<img src="./assets/images/example.png" width=300>
+- Challenge yourself to use @media for mobile view.
+
+Start coding [here](./index.html).
+
+## Submission Guidelines
+
+- Cite any relevant sources consulted during your research
+- Solve the problems using your own code
+- Do not copy and paste solutions from the source material
+- Submit your assignment to black board.
