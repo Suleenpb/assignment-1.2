@@ -3,6 +3,7 @@
 ## Brief
 
 - Refer to this [site](https://nicepage.com/website-templates/preview/machinery-parks-for-industrial-48832?device=desktop).
+- Use what you have learned today to improve on the last assignment. Copy the code from previous assignment into this.
 - Make <ins>an attempt</ins> to reproduce the remaining page left off from previous assignment.
 <img src="./assets/images/example.png" width=300>
 - Challenge yourself to use @media for mobile view.
